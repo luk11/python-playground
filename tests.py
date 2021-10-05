@@ -25,13 +25,12 @@ alien = {
     'coords' : [234,534,345]
 }
 
-# for key, value in alien.items():
-#     print(f"{key} == {value}")
+# How to loop over a dictionary
+for key, value in alien.items():
+    print(f"{key} == {value}")
 length = len(alien)
 
-# ARRAYS => LISTS not NumPy!
+# ARRAYS => LISTS in Python
 a1 = [1,2,3,4,5]
 a2 = [[1,2,3],[4,5,6],88]
 a2_value = a2[1][2]
-
-((((()))))
