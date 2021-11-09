@@ -50,3 +50,4 @@ def second_function():
 
 def third_function():
     print('msg.')
+    print('hi')
