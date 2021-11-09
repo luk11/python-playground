@@ -46,3 +46,7 @@ def my_func(a, b):
 # Nice comment
 def second_function():
     print('This is a test message')
+
+
+def third_function():
+    print('msg.')
