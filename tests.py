@@ -38,14 +38,9 @@ a2_value = a2[1][2]
 
 # Function
 def my_func(a, b):
-    c = a ** 2
+    c = a ** 3
     print(c)
     return a ** 2 + b
-
-
-# Nice comment
-def second_function():
-    print('This is a test message')
 
 
 def third_function():
