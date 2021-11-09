@@ -38,4 +38,6 @@ a2_value = a2[1][2]
 
 # Function
 def my_func(a, b):
+    c = a ** 2
+    print(c)
     return a ** 2 + b
