@@ -41,3 +41,6 @@ def my_func(a, b):
     c = a ** 2
     print(c)
     return a ** 2 + b
+
+def second_function():
+    print('This is a test message')
