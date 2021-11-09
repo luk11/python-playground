@@ -17,14 +17,6 @@ for x in range(11):
 
 squares_com = [x ** 2 for x in range(11)]
 
-# DICTIONARIES
-alien = {
-    'color': 'grenn',
-    'age': '2022',
-    'points': 5,
-    'coords': [234, 534, 345]
-}
-
 # How to loop over a dictionary
 for key, value in alien.items():
     print(f"{key} == {value}")
@@ -46,3 +38,6 @@ def my_func(a, b):
 def third_function():
     print('msg.')
     print('hi')
+    
+def last_function():
+    print('the end')
