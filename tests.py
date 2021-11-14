@@ -38,6 +38,8 @@ def my_func(a, b):
 def third_function():
     print('msg.')
     print('hi')
-    
+
+
 def last_function():
     print('the end')
+    print('this is the real end')
