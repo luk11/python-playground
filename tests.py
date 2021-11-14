@@ -19,7 +19,9 @@ squares_com = [x ** 2 for x in range(11)]
 
 alien = {
     'color': 'blue',
-    'age': 81
+    'age': 81,
+    'name': 'twumsi',
+    'size': 200
 }
 
 # How to loop over a dictionary
