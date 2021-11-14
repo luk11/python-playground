@@ -17,6 +17,11 @@ for x in range(11):
 
 squares_com = [x ** 2 for x in range(11)]
 
+alien = {
+    'color': 'blue',
+    'age': 81
+}
+
 # How to loop over a dictionary
 for key, value in alien.items():
     print(f"{key} == {value}")
