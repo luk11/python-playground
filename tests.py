@@ -50,3 +50,4 @@ def third_function():
 def last_function():
     print('the end')
     print('this is the real end')
+    print('final message')
